@@ -20,4 +20,4 @@ Paper Trails is a web-based single page application that allows users to log in,
 5. Open `http://localhost:3000` in your browser.
 
 
-**Author|Mahi Mishra**
+**Author: Mahi Mishra**
