@@ -18,3 +18,6 @@ Paper Trails is a web-based single page application that allows users to log in,
 3. Start JSON Server using `npx json-server --watch db.json --port 3000`.
 4. In a new terminal, start the React app using `npm start`.
 5. Open `http://localhost:3000` in your browser.
+
+
+**Author|Mahi Mishra**
