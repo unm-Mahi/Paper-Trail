@@ -19,5 +19,7 @@ Paper Trails is a web-based single page application that allows users to log in,
 4. In a new terminal, start the React app using `npm start`.
 5. Open `http://localhost:3000` in your browser.
 
+( For running React + JSON Server online, you need cloud services like: Render, Heroku, or Vercel )
+
 
 **Author: Mahi Mishra**
