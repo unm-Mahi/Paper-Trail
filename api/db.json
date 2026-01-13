@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "name": "Astha",
+      "age": "34",
+      "city": "Noida",
+      "email": "astha@gmail.com",
+      "password": "11111",
+      "id": "9c40"
+    },
+    {
+      "name": "Bhaskar",
+      "age": "27",
+      "city": "Kanpur",
+      "email": "bhaskar@gmail.com",
+      "password": "22222",
+      "id": "dfdb",
+      "photo": "Lock_Wallpaper.jpg",
+      "description": ""
+    },
+    {
+      "name": "Chandan",
+      "age": "29",
+      "city": "Mumbai",
+      "email": "chandan@gmail.com",
+      "password": "33333",
+      "id": "4475"
+    },
+    {
+      "name": "Divya",
+      "age": "24",
+      "city": "Bangalore",
+      "email": "divya@gmail.com",
+      "password": "44444",
+      "id": "dfbd"
+    },
+    {
+      "name": "Esha",
+      "age": "31",
+      "city": "Chennai",
+      "email": "esha@gmail.com",
+      "password": "55555",
+      "id": "f0a9"
+    },
+    {
+      "id": "79c5",
+      "name": "Fatima",
+      "age": "22",
+      "city": "Delhi",
+      "email": "fatima@gmail.com",
+      "password": "66666"
+    },
+    {
+      "id": "6223",
+      "name": "Gopal",
+      "age": "24",
+      "city": "Kolkata",
+      "email": "gopal@gmail.com",
+      "password": "77777"
+    },
+    {
+      "id": "81ea",
+      "name": "Harleen",
+      "age": "34",
+      "city": "Punjab",
+      "email": "harleen@gmail.com",
+      "password": "88888"
+    }
+  ]
+}
